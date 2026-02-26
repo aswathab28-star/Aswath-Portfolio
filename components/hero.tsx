@@ -77,7 +77,7 @@ export function Hero() {
               {"Hi, I'm "}
               <GradientText
                 colors={["#5227FF", "#FF9FFC", "#7d58f9"]}
-                animationSpeed={4}
+                animationSpeed={0.8}
                 showBorder={false}
                 className="custom-class"
               >
